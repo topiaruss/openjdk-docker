@@ -9,4 +9,4 @@ before_install:
   - docker build --rm=true -t gchiam/openjdk:8 jdk8/
 
 script:
-    -- docker run gchiam/openjdk:8
+  - docker run gchiam/openjdk:8
