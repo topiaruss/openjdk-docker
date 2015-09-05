@@ -1,2 +1,2 @@
 # docker-jdk8
-Docker image witj OpenJDK1.8
+Docker image with OpenJDK on Alpine
