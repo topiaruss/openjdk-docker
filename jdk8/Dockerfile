@@ -26,4 +26,4 @@ RUN apk add --update wget ca-certificates && \
     apk del wget ca-certificates && \
     rm /tmp/* /var/cache/apk/*
 
-CMD ["java", "-version"]
+CMD ["/usr/bin/java", "-version"]
