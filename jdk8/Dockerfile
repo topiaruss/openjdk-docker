@@ -1,4 +1,4 @@
-FROM alpine:3.2
+FROM gchiam/base
 
 MAINTAINER Gordoon Chiam <gordon.chiam@gmail.com>
 
