@@ -1,4 +1,4 @@
-FROM gchiam/base
+FROM topiaruss/alpine-base
 
 MAINTAINER Gordoon Chiam <gordon.chiam@gmail.com>
 
